@@ -1,6 +1,5 @@
 # NetworkWalks — Week 1: Cybersecurity Lab Setup
 
-![Cybersecurity Lab Setup](1-screenshot-title-image.png)
 
 A hands-on cybersecurity lab setup completed as part of the NetworkWalks cybersecurity program. This project documents the configuration of Kali Linux in Oracle VirtualBox, including NAT Network configuration, static IPv4 addressing, and network verification.
 
